@@ -7,10 +7,30 @@ body{
 }
 
 
+
     #d1 {
+        border: 10px solid burlywood;
         background-color: rgb(136, 30, 365);
+        border-radius: 20px;
     }
 
+    #d1-0 li {
+        display: inline;
+        color: rgb(161, 26, 161);
+        }
+
+        #d1-0 li a:hover {
+            background-color: #2586d7;
+            margin-top: -2;
+            padding-bottom: 12px;]
+            }
+
+#d1-1{
+    border: 10px solid cadetblue;
+    margin: 15px 10px 15px 10px;
+    padding: 20px;
+    border-radius: 20px;
+}
 
 #d2{
     background-color: darkslateblue;
