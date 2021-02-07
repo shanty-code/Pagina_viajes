@@ -6,7 +6,12 @@ body{
     color: rgb(255, 255, 255);
 }
 
-
+.imagen_perfil{
+    width: 125px;
+    height: 250px;
+    border-radius: 20px;
+    
+}
 
     #d1 {
         border: 10px solid burlywood;
@@ -20,7 +25,7 @@ body{
         }
 
         #d1-0 li a:hover {
-            background-color: #2586d7;
+            background-color: #cc4ce6;
             margin-top: -2;
             padding-bottom: 12px;]
             }
