@@ -1,16 +1,29 @@
-p { color: rgb(255, 255, 255); }
+p { 
+    color: rgb(255, 255, 255); 
+}
+
 body{
     background-color: black;
 }
+
 #p1{
     color: rgb(255, 255, 255);
+    float:right;
+    display:inline-block;
 }
+
+#div-parrafo1{
+    float:right;  
+    position: relative;
+    text-align:center;
+}
+
 
 .imagen_perfil{
     width: 125px;
     height: 250px;
     border-radius: 20px;
-    
+    float: right; 
 }
 
     #d1 {
@@ -27,7 +40,7 @@ body{
         #d1-0 li a:hover {
             background-color: #cc4ce6;
             margin-top: -2;
-            padding-bottom: 12px;]
+            padding-bottom: 12px;
             }
 
 #d1-1{
@@ -35,6 +48,9 @@ body{
     margin: 15px 10px 15px 10px;
     padding: 20px;
     border-radius: 20px;
+    width: 890px;
+    height: 250px;
+    position: relative;
 }
 
 #d2{
